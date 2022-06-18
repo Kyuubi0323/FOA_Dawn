@@ -1,3 +1,4 @@
 Welcome to my GITHUB profile ^^ /* hehe*/
 Tryin sOck
-# this is how
+# luvi
+![Image of Kimonotocat](https://octodex.github.com/images/kimonotocat.png)
